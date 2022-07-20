@@ -1,0 +1,23 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 40px;
+    padding: auto;
+}
+h1 {
+    background-color: aqua;
+    display: inline;
+    padding: 1%;
+    border: solid black;
+    border-radius: 10px;
+    border-left: 0em;
+    border-right: 0em;
+    margin: 10px 5px;
+    margin-top: 5px;
+}
+h2 {
+    background-color: rgb(15, 51, 51);
+    border-start-end-radius: 20px;
+    display: inline;
+    padding: 8px;
+    color: aliceblue;
+}
